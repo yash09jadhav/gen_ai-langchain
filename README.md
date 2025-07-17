@@ -1,3 +1,2 @@
-# gen ai
-## flow : 
+# workflow : 
 llm basics -> prompts -> structured_output
