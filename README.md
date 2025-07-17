@@ -1,3 +1,3 @@
-# llm
-flow : 
-prompts -> structured_output
+# gen ai
+## flow : 
+llm basics -> prompts -> structured_output
