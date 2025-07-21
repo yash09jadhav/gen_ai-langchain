@@ -1,2 +1,2 @@
 # workflow : 
-llm basics -> prompts -> structured_output
+llm basics -> prompts -> structured_output -> output parsers
