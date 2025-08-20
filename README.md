@@ -11,4 +11,5 @@
 8. text_splitters
 9. vector_stores -> Here I implemented chroma db, where upon creating its instance it generates a SQLite file in the same directory. On which I can perform CRUD operations.
 10. RAG -> The notebook LangChain to build an application that combines a large language model with an external knowledge source (youtube) for context-aware responses.
+11. tools
      
