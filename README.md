@@ -10,3 +10,5 @@
 7. document_loaders
 8. text_splitters
 9. vector_stores -> Here we implemented chroma db, where upon creating its instance it generates a SQLite file in the same directory. On which we can perform CRUD operations.
+10. RAG -> a simple youtube 
+     
